@@ -34,7 +34,7 @@ outfit "Nuclear Missile"
 		"trigger radius" 30
 		"blast radius" 150
 		"shield damage" 25000
-		"hull damage" 20000
+		"hull damage" 18000
 		"hit force" 13000
 		"missile strength" 400
 	description "It has been centuries since the last nuclear war was fought, and until very recently, most people in the galaxy assumed that that era of chaos and destruction was forever behind us..."
